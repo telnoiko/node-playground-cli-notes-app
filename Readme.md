@@ -1,2 +1,2 @@
-Checking out Node CLI features (yarg and chalk basically).
+Checking out Node CLI features using `yarg` and `chalk`.
 
